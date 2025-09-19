@@ -2,10 +2,10 @@ name: deploy-documentatie.yml
 on:
   push:
     branches:
-      -main
+      - main
   pull_request:
     branches:
-      -main
+      - main
 permissions:
   contents: read
   pages: write
