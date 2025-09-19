@@ -1,0 +1,1 @@
+https://syntax-scribe.github.io/syntax-scribe-docs/guides/mkdocs-deploy-guide/
