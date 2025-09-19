@@ -1,5 +1,4 @@
-site_name: Documentatie
-nav:
-  - Home: index.md
-  - About: about.md
-theme: readthedocs
+mkdocs.yml
+docs/
+index.md
+about.md
