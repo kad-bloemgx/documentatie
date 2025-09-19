@@ -1,4 +1,11 @@
-mkdocs.yml
-docs/
-index.md
-about.md
+site_name: Documentatie
+site_url: https://kad-bloemgx.github.io/documentatie
+site_description: A brief description of your project
+site_author: Gerard Bloemendaal
+
+theme:
+  name: material  # or your preferred theme
+
+nav:
+  - Home: index.md
+  - About: about.md
